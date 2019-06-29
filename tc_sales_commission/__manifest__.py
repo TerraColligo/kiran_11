@@ -2,7 +2,7 @@
 
 {
     'name': 'Sales Commission',
-    'version': '11.2018.11.09.1',
+    'version': '11.5.27.6.2019',
     'category': 'Sale',
     'summary': 'This module allow user to give the Sales Commission.',
     'description': """This module allow user to give the Sales Commission.""",

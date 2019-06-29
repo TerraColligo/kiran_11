@@ -1,9 +1,12 @@
 # -*- coding: utf-8 -*-
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 {
-    'name': 'EDI for Mexico Custom',
+    'name': 'CFDI warning disable',
     'version': '1.0',
+    'summary': 'Disables SAT stamping warning on invoices when system has EDI for Mexico installed',
     'category': 'Account',
+    'author': "Terra Colligo",
+    'license': 'OPL-1',
     'depends': [
         'l10n_mx_edi',
     ],
