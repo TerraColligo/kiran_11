@@ -1,6 +1,6 @@
 {
     'name': 'Restrict Product & Customer',
-    'version': '11.2.21.06.2019',
+    'version': '11.2.10.07.2019',
     'category': 'sales',
     'depends': ['sale_management'],
     'author': "Kiran Kantesariya",
